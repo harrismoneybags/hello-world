@@ -1,2 +1,3 @@
 # hello-world
-lets learn how this works 
+yo ma guys ! 
+it's so much fun learning 
